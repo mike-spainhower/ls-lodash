@@ -4,6 +4,8 @@
 
 # ls-lodash 
 
+![Snuffles](http://i.ytimg.com/vi/ScC0T--XfkA/hqdefault.jpg)
+
 ## Usage
 
 ```js

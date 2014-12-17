@@ -6,4 +6,4 @@ deploy:
   provider: npm
   email: mc.s.pain.how.er+npm@gmail.com
   api_key:
-    secure: Ayt0MzhTGxNOVjGgiZ+iBaAQRuOUmY9IWRC8Bz5UJgmt7S3cSxQOr0eFrZSzLqvwe4APSH+CO+ZvCjzS+fQx2syUXj9JZGJZ7Y7IwsYWPY8E7pc9oqnLB79xC9i3XEBeMNerWx4dIyYSk0k4+IRfI7Rh8gMPtrFojPYpubWKhGQ=
+    secure: yVjUp7ddssEc8cArO0S377rZuow2ZooveuT3sWxeCRXsHq2FlyxSqQUh3voeg9YjJDKI+iO8HXphaZwV7PI6Xgh7eoEi7WjPi1aenPnjeaIsrm9NQwZppmX+nv9YMEctJj2KGd1WUuJbexkZurJKH94WrBhuZM9vafVE7FjA8z4=

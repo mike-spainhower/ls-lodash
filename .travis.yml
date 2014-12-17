@@ -4,6 +4,6 @@ node_js:
 - '0.10'
 deploy:
   provider: npm
-  email: "mc.s.pain.how.er+npm@gmail.com"
+  email: mc.s.pain.how.er+npm@gmail.com
   api_key:
-    secure: fJuucQuXHg5Kipx1SlZ7IvoJP+kXnUvB+DKR8Gi8waf7sWTwNfc4+CahT0Ck5/508qRVmqyRwm//qX/fY1SNhL996HLIlEMqeiOPPoPQNTxsaXZD9JStuebS6lm49/Vc30gCsN8/vibNdesHHvpa8xecBcdq3otegC667l+HazI=
+    secure: Ayt0MzhTGxNOVjGgiZ+iBaAQRuOUmY9IWRC8Bz5UJgmt7S3cSxQOr0eFrZSzLqvwe4APSH+CO+ZvCjzS+fQx2syUXj9JZGJZ7Y7IwsYWPY8E7pc9oqnLB79xC9i3XEBeMNerWx4dIyYSk0k4+IRfI7Rh8gMPtrFojPYpubWKhGQ=

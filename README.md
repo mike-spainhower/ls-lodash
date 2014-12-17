@@ -1,4 +1,8 @@
-# ls-lodash
+<a href="#" id="status-image-popup" name="status-images" class="open-popup" data-ember-action="327">
+    <img src="https://travis-ci.org/LiveSafe/ls-lodash.svg" data-bindattr-328="328" title="Build Status Images">
+</a>
+
+# ls-lodash 
 
 ## Usage
 

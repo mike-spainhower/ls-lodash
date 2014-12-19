@@ -1,8 +1,4 @@
-<a href="#" id="status-image-popup" name="status-images" class="open-popup" data-ember-action="327">
-    <img src="https://travis-ci.org/LiveSafe/ls-lodash.svg" data-bindattr-328="328" title="Build Status Images">
-</a>
-
-# ls-lodash 
+# ls-lodash  [![Build Status](https://travis-ci.org/LiveSafe/ls-lodash.svg?branch=1.0.1)](https://travis-ci.org/LiveSafe/ls-lodash)
 
 ![Snuffles](http://i.ytimg.com/vi/ScC0T--XfkA/hqdefault.jpg)
 

@@ -11,6 +11,29 @@ var _ = require('ls-lodash'),
 
 ## API
 
+### mapKeys
+
+```js
+_.mapKeys(object, [callback], [thisArg])
+```
+
+###### Arguments
+
+1. `object` _(...Object)_ The object over which to iterate.
+1. `[callback]` _(Function)_ The function called per iteration.
+1. `[thisArg]` _(*)_ The `this` binding of `callback`
+
+###### Returns
+
+_(Object)_: Returns a new object with keys/properties of the results of each `callback` execution.
+
+###### Notes
+
+Similar to `_.mapValues`
+
+See https://lodash.com/docs#mapValues
+
+
 ### safeMerge
 
 ```js
@@ -22,6 +45,12 @@ _.safeMerge([source], [callback], [thisArg])
 1. `[source]` _(...Object)_ The source objects
 1. `[callback]` _(Function)_ The function to customize merging properties
 1. `[thisArg]` _(*)_ The `this` binding of `callback`
+
+###### Returns
+
+_(Object)_: Returns a new object with source objects merged
+
+###### Notes
 
 Effectively equivalent to `_.partial(_.merge, {})`;
 
@@ -41,3 +70,7 @@ _.seal(fn, [prefixArgs], count, [suffixArgs], [thisArg])
 1. `count` _(Number)_ The number of arguments to accept into partially applied function.
 1. `[suffixArgs]` _(Array)_ Arguments to be partially applied right.
 1. `[thisArg]` _(*)_ Context in which to run `fn`
+
+###### Returns
+
+_(Function)_ Partially applied function, optionally bound to `thisArg`, that accepts a max of `count` more args.

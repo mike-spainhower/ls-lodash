@@ -1,6 +1,6 @@
 {
   "name": "ls-lodash",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "lodash with some extra fixins (mixins)",
   "main": "lib/ls-lodash.js",
   "scripts": {

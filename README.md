@@ -26,3 +26,18 @@ _.safeMerge([source], [callback], [thisArg])
 Effectively equivalent to `_.partial(_.merge, {})`;
 
 See https://lodash.com/docs#merge
+
+
+### seal
+
+```js
+_.seal(fn, [prefixArgs], count, [suffixArgs], [thisArg])
+```
+
+###### Arguments
+
+1. `fn` _(Function)_ The function to partially apply and seal.
+1. `[prefixArgs]` _(Array)_ Arguments to be partially applied left.
+1. `count` _(Number)_ The number of arguments to accept into partially applied function.
+1. `[suffixArgs]` _(Array)_ Arguments to be partially applied right.
+1. `[thisArg]` _(*)_ Context in which to run `fn`

@@ -2,8 +2,13 @@ language: node_js
 node_js:
 - '0.11'
 - '0.10'
+notifications:
+  flowdock:
+    secure: k/ml/YDyGUtuacO7gpc5r6poQyllZbi1KdKCvqGORSQzS7AgUO93MHdbdAxmXcg1TeR5x/QHiljmwPLnTxcILHqkuRQTFklW2HLRGLHpo0W/00xQ0F6v/UQpRHg0cGi9jTxO79VfrKAo+FgLYvH1Oa4emgsCuWCpvefno/RJanU=
 deploy:
   provider: npm
   email: mc.s.pain.how.er+npm@gmail.com
   api_key:
-    secure: yVjUp7ddssEc8cArO0S377rZuow2ZooveuT3sWxeCRXsHq2FlyxSqQUh3voeg9YjJDKI+iO8HXphaZwV7PI6Xgh7eoEi7WjPi1aenPnjeaIsrm9NQwZppmX+nv9YMEctJj2KGd1WUuJbexkZurJKH94WrBhuZM9vafVE7FjA8z4=
+    secure: Li6sX8dQr1RbAt3yxb/SeGi35m8axWNnXFare0LBZ7+6fN0CDzTHDsZWcsrvjCt1CNkSs5vleYQKUUHQCZUypkP92ojxYWlBnTYVkTAmJxQMskDyePxf9RljrXHGO3djXOAeRXFDHk/Cif7WPCZUw8GNdDAFSjfs2R1oj2hO4Rc=
+  on:
+    repo: LiveSafe/ls-lodash

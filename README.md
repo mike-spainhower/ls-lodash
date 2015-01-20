@@ -1,4 +1,4 @@
-# ls-lodash  [![Build Status](https://travis-ci.org/LiveSafe/ls-lodash.svg?branch=1.0.1)](https://travis-ci.org/LiveSafe/ls-lodash)
+# ls-lodash  [![Build Status](https://travis-ci.org/LiveSafe/ls-lodash.svg?branch=1.0.1)](https://travis-ci.org/LiveSafe/ls-lodash) [![Dependency Status](https://www.versioneye.com/user/projects/54be95866c0035c592000008/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54be95866c0035c592000008)
 
 ![Snuffles](http://i.ytimg.com/vi/ScC0T--XfkA/hqdefault.jpg)
 
